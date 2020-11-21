@@ -1,0 +1,8 @@
+#ifndef MPOOL_DEVRPT_H
+#define MPOOL_DEVRPT_H
+
+static const char mpool_version[] = "@build_version@";
+static const char mpool_tag[] = "@build_tag@";
+static const char mpool_sha[] = "@build_sha@";
+
+#endif

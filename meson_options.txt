@@ -1,0 +1,4 @@
+option('asan', type: 'boolean', value: false,
+	description: 'Enable asan support')
+option('ubsan', type: 'boolean', value: false,
+	description: 'Enable ubsan support')

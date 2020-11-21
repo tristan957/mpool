@@ -19,3 +19,4 @@ bull.cov
 .#*
 *.rpm
 *.deb
+build
